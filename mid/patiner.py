@@ -200,6 +200,8 @@ class Painter(QMainWindow):
         p = QPainter(self.image)
         p.setPen(QPen(self.brushColor, self.brushSize, Qt.SolidLine, Qt.RoundCap))
 
+        
+
 
 
 
